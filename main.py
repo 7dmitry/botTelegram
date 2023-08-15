@@ -77,13 +77,13 @@ while i < ii:
         teg_version.append("#м120")
     if version_out[i] == '1.19':
         teg_version.append("#м119")
-    if version_out[i] == "'1.18'":
+    if version_out[i] == '1.18':
         teg_version.append("#м118")
-    if version_out[i] == "'1.17'":
+    if version_out[i] == '1.17':
         teg_version.append("#м117") 
-    if version_out[i] == "'1.16'":
+    if version_out[i] == '1.16':
         teg_version.append("#м116")  
-    if version_out[i] == "'1.15'":
+    if version_out[i] == '1.15':
         teg_version.append("#м115")                                                              
     i = i+1
 
